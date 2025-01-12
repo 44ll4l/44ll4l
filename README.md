@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=a8c6fe&height=240&text=44ll4l's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center">
+    <h1><center>"나는 공을 처음 잡은 순간부터 내가 천재라는 사실을 직감했다."</center></h1>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
